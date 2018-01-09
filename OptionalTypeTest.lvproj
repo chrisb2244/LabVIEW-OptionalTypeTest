@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="ExpensiveOptionalWork.vim" Type="VI" URL="../ExpensiveOptionalWork.vim"/>
+		<Item Name="OptionalType.lvclass" Type="LVClass" URL="../OptionalType/OptionalType.lvclass"/>
 		<Item Name="TestVI.vi" Type="VI" URL="../TestVI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
